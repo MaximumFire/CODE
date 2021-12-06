@@ -1,0 +1,24 @@
+U:\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+U:\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+U:\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+U:\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+U:\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+U:\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+U:\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+U:\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+\\Germanium\students$\y8\18McHarg.Connor\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+\\Germanium\students$\y8\18McHarg.Connor\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+\\Germanium\students$\y8\18McHarg.Connor\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+\\Germanium\students$\y8\18McHarg.Connor\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\Germanium\students$\y8\18McHarg.Connor\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\Germanium\students$\y8\18McHarg.Connor\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+\\Germanium\students$\y8\18McHarg.Connor\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\Germanium\students$\y8\18McHarg.Connor\Projects\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+U:\Work\Visual Basic\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+U:\Work\Visual Basic\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+U:\Work\Visual Basic\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+U:\Work\Visual Basic\Bulls and Cows\Bulls and Cows\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+U:\Work\Visual Basic\Bulls and Cows\Bulls and Cows\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+U:\Work\Visual Basic\Bulls and Cows\Bulls and Cows\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+U:\Work\Visual Basic\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+U:\Work\Visual Basic\Bulls and Cows\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache

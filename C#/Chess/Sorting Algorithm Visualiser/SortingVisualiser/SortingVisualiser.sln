@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingVisualiser", "SortingVisualiser\SortingVisualiser.csproj", "{99A39307-0161-4733-BA8F-50935EA7120E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A39307-0161-4733-BA8F-50935EA7120E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A39307-0161-4733-BA8F-50935EA7120E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A39307-0161-4733-BA8F-50935EA7120E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A39307-0161-4733-BA8F-50935EA7120E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CEAB19E-192F-4D4E-8974-428892BA9100}
+	EndGlobalSection
+EndGlobal

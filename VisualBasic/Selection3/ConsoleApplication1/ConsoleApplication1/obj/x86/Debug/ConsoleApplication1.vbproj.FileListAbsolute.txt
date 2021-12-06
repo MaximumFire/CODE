@@ -1,0 +1,8 @@
+U:\Year 10\Computer Science\VB\Selection3\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+U:\Year 10\Computer Science\VB\Selection3\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+U:\Year 10\Computer Science\VB\Selection3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+U:\Year 10\Computer Science\VB\Selection3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+U:\Year 10\Computer Science\VB\Selection3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+U:\Year 10\Computer Science\VB\Selection3\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+U:\Year 10\Computer Science\VB\Selection3\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+U:\Year 10\Computer Science\VB\Selection3\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

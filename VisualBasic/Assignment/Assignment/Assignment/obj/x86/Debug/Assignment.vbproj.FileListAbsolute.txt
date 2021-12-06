@@ -1,0 +1,8 @@
+U:\Year 10\Computer Science\VB\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.Resources.resources
+U:\Year 10\Computer Science\VB\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.vbproj.GenerateResource.Cache
+U:\Year 10\Computer Science\VB\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+U:\Year 10\Computer Science\VB\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+U:\Year 10\Computer Science\VB\Assignment\Assignment\Assignment\bin\Debug\Assignment.xml
+U:\Year 10\Computer Science\VB\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.exe
+U:\Year 10\Computer Science\VB\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.xml
+U:\Year 10\Computer Science\VB\Assignment\Assignment\Assignment\obj\x86\Debug\Assignment.pdb

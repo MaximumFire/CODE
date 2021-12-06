@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="18mcharg.connor"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-04-23 11:54:11 AM"/>
+        <attribute name="created" value="MThtY2hhcmcuY29ubm9yO0xJQlJBUlktVS0zODsyMDIxLTA0LTIzOzExOjI1OjEwIEFNOzM1MDA="/>
+        <attribute name="edited" value="MThtY2hhcmcuY29ubm9yO0xJQlJBUlktVS0zODsyMDIxLTA0LTIzOzExOjU0OjExIEFNOzE7MzYxMQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="sentences" type="String" array="False" size=""/>
+            <assign variable="sentences" expression="&quot;The quick brown fox jumped over the lazy dog.&quot;"/>
+            <declare name="int1" type="Integer" array="False" size=""/>
+            <assign variable="int1" expression="1"/>
+            <while expression="int1 = 1">
+                <declare name="instructions" type="String" array="False" size=""/>
+                <assign variable="instructions" expression="&quot;You will be given a sentence to type. You will need to press Enter to confirm your sentence. If you have mad a mistake, you will need to re-type the sentence. Your time will be given to you at the end.&quot;"/>
+                <output expression="instructions" newline="True"/>
+                <declare name="start" type="String" array="False" size=""/>
+                <assign variable="start" expression="&quot;Press enter to start.&quot;"/>
+                <input variable="start"/>
+                <output expression="&quot;Your sentence is: &quot; &amp; sentences" newline="True"/>
+                <output expression="&quot;Enter your sentence here: &quot;" newline="True"/>
+                <declare name="attempt" type="String" array="False" size=""/>
+                <input variable="attempt"/>
+                <if expression="attempt = sentences">
+                    <then>
+                        <output expression="&quot;Congratulations! You successfully entered the sentence.&quot;" newline="True"/>
+                    </then>
+                    <else>
+                        <output expression="&quot;Your attempt was not correct&quot;" newline="True"/>
+                    </else>
+                </if>
+                <declare name="choice" type="String" array="False" size=""/>
+                <output expression="&quot;Would you like to try again? (y/n):&quot;" newline="True"/>
+                <input variable="choice"/>
+                <if expression="choice = &quot;y&quot;">
+                    <then/>
+                    <else>
+                        <assign variable="int1" expression="2"/>
+                    </else>
+                </if>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

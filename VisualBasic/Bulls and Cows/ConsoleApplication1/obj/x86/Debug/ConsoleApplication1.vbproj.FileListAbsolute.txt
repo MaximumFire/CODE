@@ -1,0 +1,4 @@
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding\Visual Basic\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbprojAssemblyReference.cache
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding\Visual Basic\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding\Visual Basic\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.cache
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding\Visual Basic\Bulls and Cows\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.CoreCompileInputs.cache

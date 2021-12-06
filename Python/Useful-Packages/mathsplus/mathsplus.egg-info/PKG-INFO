@@ -1,0 +1,63 @@
+Metadata-Version: 1.1
+Name: mathsplus
+Version: 0.1.1
+Summary: Extra maths functions.
+Home-page: UNKNOWN
+Author: Connor McHarg, Thomas Copland
+Author-email: UNKNOWN
+License: MIT
+Description: This is a simple package for doing some extra maths in python.
+        
+        Change Log
+        ================================================
+        
+        0.0.1 (16/12/2020)
+        --------------------------------
+        - First Release
+        
+        0.0.2 (16/12/2020)
+        --------------------------------
+        - Second Release with small changes
+        
+        0.0.3 (16/12/2020)
+        --------------------------------
+        - Third Release with another minor change
+        
+        0.0.4 (16/12/2020)
+        --------------------------------
+        - Fourth release with quality of life changes
+        
+        0.0.5 (16/12/2020)
+        --------------------------------
+        - Fifth Release with testing changes
+        
+        0.0.6 (16/12/2020)
+        --------------------------------
+        - Sixth release with testing changes
+        
+        0.0.7 (16/12/2020)
+        --------------------------------
+        - Seventh Release with testing changes
+        
+        0.0.8 (17/12/2020)
+        --------------------------------
+        - Eight release with smart function parameters
+        
+        0.0.9 (19/12/2020)
+        --------------------------------
+        - Nineth release with grammar fix
+        
+        0.1.0 (05/02/2021)
+        --------------------------------
+        - Tenth release with prime factorisation added
+        
+        0.1.1 (07/05/2021)
+        --------------------------------
+        - Eleventh release with minor tweaks
+Keywords: maths
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Programming Language :: Python :: 3

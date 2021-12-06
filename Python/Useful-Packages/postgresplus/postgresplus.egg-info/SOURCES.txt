@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+postgresplus/__init__.py
+postgresplus/main.py
+postgresplus.egg-info/PKG-INFO
+postgresplus.egg-info/SOURCES.txt
+postgresplus.egg-info/dependency_links.txt
+postgresplus.egg-info/requires.txt
+postgresplus.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+U:\Year 10\Computer Science\VB\Iteration\Iteration rectangle\Iteration rectangle\bin\Debug\Iteration rectangle.exe
+U:\Year 10\Computer Science\VB\Iteration\Iteration rectangle\Iteration rectangle\bin\Debug\Iteration rectangle.pdb
+U:\Year 10\Computer Science\VB\Iteration\Iteration rectangle\Iteration rectangle\bin\Debug\Iteration rectangle.xml
+U:\Year 10\Computer Science\VB\Iteration\Iteration rectangle\Iteration rectangle\obj\x86\Debug\Iteration_rectangle.Resources.resources
+U:\Year 10\Computer Science\VB\Iteration\Iteration rectangle\Iteration rectangle\obj\x86\Debug\Iteration rectangle.vbproj.GenerateResource.Cache
+U:\Year 10\Computer Science\VB\Iteration\Iteration rectangle\Iteration rectangle\obj\x86\Debug\Iteration rectangle.exe
+U:\Year 10\Computer Science\VB\Iteration\Iteration rectangle\Iteration rectangle\obj\x86\Debug\Iteration rectangle.xml
+U:\Year 10\Computer Science\VB\Iteration\Iteration rectangle\Iteration rectangle\obj\x86\Debug\Iteration rectangle.pdb

@@ -1,0 +1,13 @@
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\bin\Debug\netcoreapp3.1\Tutorial Series.exe
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\bin\Debug\netcoreapp3.1\Tutorial Series.deps.json
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\bin\Debug\netcoreapp3.1\Tutorial Series.runtimeconfig.json
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\bin\Debug\netcoreapp3.1\Tutorial Series.runtimeconfig.dev.json
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\bin\Debug\netcoreapp3.1\Tutorial Series.dll
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\bin\Debug\netcoreapp3.1\Tutorial Series.pdb
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\obj\Debug\netcoreapp3.1\Tutorial Series.csprojAssemblyReference.cache
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\obj\Debug\netcoreapp3.1\Tutorial Series.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\obj\Debug\netcoreapp3.1\Tutorial Series.AssemblyInfo.cs
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\obj\Debug\netcoreapp3.1\Tutorial Series.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\obj\Debug\netcoreapp3.1\Tutorial Series.dll
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\obj\Debug\netcoreapp3.1\Tutorial Series.pdb
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Tutorial\Tutorial Series\obj\Debug\netcoreapp3.1\Tutorial Series.genruntimeconfig.cache

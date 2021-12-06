@@ -1,0 +1,11 @@
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\bin\Debug\SortingVisualiser.exe.config
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\bin\Debug\SortingVisualiser.exe
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\bin\Debug\SortingVisualiser.pdb
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\obj\Debug\SortingVisualiser.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\obj\Debug\SortingVisualiser.csproj.SuggestedBindingRedirects.cache
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\obj\Debug\SortingVisualiser.Properties.Resources.resources
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\obj\Debug\SortingVisualiser.csproj.GenerateResource.cache
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\obj\Debug\SortingVisualiser.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\obj\Debug\SortingVisualiser.exe
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\obj\Debug\SortingVisualiser.pdb
+C:\Users\conno\OneDrive\Documents\C#\Chess\Sorting Algorithm Visualiser\SortingVisualiser\SortingVisualiser\obj\Debug\SortingVisualiser.SortVisualiser.resources

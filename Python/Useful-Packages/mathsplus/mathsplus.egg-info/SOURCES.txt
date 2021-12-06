@@ -1,0 +1,14 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+mathsplus/__init__.py
+mathsplus/graphs.py
+mathsplus/hcf_lcm.py
+mathsplus/pi.py
+mathsplus/shapes.py
+mathsplus.egg-info/PKG-INFO
+mathsplus.egg-info/SOURCES.txt
+mathsplus.egg-info/dependency_links.txt
+mathsplus.egg-info/top_level.txt

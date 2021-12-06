@@ -1,0 +1,8 @@
+U:\Projects\Time Converter\TimeConverter\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+U:\Projects\Time Converter\TimeConverter\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+U:\Projects\Time Converter\TimeConverter\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+U:\Projects\Time Converter\TimeConverter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+U:\Projects\Time Converter\TimeConverter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+U:\Projects\Time Converter\TimeConverter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+U:\Projects\Time Converter\TimeConverter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+U:\Projects\Time Converter\TimeConverter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

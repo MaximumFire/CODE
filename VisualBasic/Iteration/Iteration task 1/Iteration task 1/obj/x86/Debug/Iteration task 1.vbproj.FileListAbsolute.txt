@@ -1,0 +1,8 @@
+U:\Year 10\Computer Science\VB\Iteration\Iteration task 1\Iteration task 1\bin\Debug\Iteration task 1.exe
+U:\Year 10\Computer Science\VB\Iteration\Iteration task 1\Iteration task 1\bin\Debug\Iteration task 1.pdb
+U:\Year 10\Computer Science\VB\Iteration\Iteration task 1\Iteration task 1\bin\Debug\Iteration task 1.xml
+U:\Year 10\Computer Science\VB\Iteration\Iteration task 1\Iteration task 1\obj\x86\Debug\Iteration_task_1.Resources.resources
+U:\Year 10\Computer Science\VB\Iteration\Iteration task 1\Iteration task 1\obj\x86\Debug\Iteration task 1.vbproj.GenerateResource.Cache
+U:\Year 10\Computer Science\VB\Iteration\Iteration task 1\Iteration task 1\obj\x86\Debug\Iteration task 1.exe
+U:\Year 10\Computer Science\VB\Iteration\Iteration task 1\Iteration task 1\obj\x86\Debug\Iteration task 1.xml
+U:\Year 10\Computer Science\VB\Iteration\Iteration task 1\Iteration task 1\obj\x86\Debug\Iteration task 1.pdb

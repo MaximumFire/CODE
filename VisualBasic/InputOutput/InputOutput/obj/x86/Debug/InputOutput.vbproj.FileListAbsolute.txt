@@ -1,0 +1,8 @@
+U:\Year 10\Computer Science\VB\InputOutput\InputOutput\bin\Debug\InputOutput.exe
+U:\Year 10\Computer Science\VB\InputOutput\InputOutput\bin\Debug\InputOutput.pdb
+U:\Year 10\Computer Science\VB\InputOutput\InputOutput\bin\Debug\InputOutput.xml
+U:\Year 10\Computer Science\VB\InputOutput\InputOutput\obj\x86\Debug\InputOutput.Resources.resources
+U:\Year 10\Computer Science\VB\InputOutput\InputOutput\obj\x86\Debug\InputOutput.vbproj.GenerateResource.Cache
+U:\Year 10\Computer Science\VB\InputOutput\InputOutput\obj\x86\Debug\InputOutput.exe
+U:\Year 10\Computer Science\VB\InputOutput\InputOutput\obj\x86\Debug\InputOutput.xml
+U:\Year 10\Computer Science\VB\InputOutput\InputOutput\obj\x86\Debug\InputOutput.pdb

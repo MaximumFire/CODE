@@ -1,0 +1,13 @@
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\bin\Debug\netcoreapp3.1\Happy Numbers.exe
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\bin\Debug\netcoreapp3.1\Happy Numbers.deps.json
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\bin\Debug\netcoreapp3.1\Happy Numbers.runtimeconfig.json
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\bin\Debug\netcoreapp3.1\Happy Numbers.runtimeconfig.dev.json
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\bin\Debug\netcoreapp3.1\Happy Numbers.dll
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\bin\Debug\netcoreapp3.1\Happy Numbers.pdb
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\obj\Debug\netcoreapp3.1\Happy Numbers.csprojAssemblyReference.cache
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\obj\Debug\netcoreapp3.1\Happy Numbers.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\obj\Debug\netcoreapp3.1\Happy Numbers.AssemblyInfo.cs
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\obj\Debug\netcoreapp3.1\Happy Numbers.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\obj\Debug\netcoreapp3.1\Happy Numbers.dll
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\obj\Debug\netcoreapp3.1\Happy Numbers.pdb
+C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding-VSCODE\C#\Happy Numbers\Happy Numbers\obj\Debug\netcoreapp3.1\Happy Numbers.genruntimeconfig.cache
