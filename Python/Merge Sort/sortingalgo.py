@@ -30,7 +30,7 @@ def merge_sort(m):
 
     left = merge_sort(left)
     right = merge_sort(right)
-    return list(merge(left, right))
+    return list(merge_custom(left, right))
 
 
 def get_random_list(length):

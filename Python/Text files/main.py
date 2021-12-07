@@ -6,3 +6,4 @@ with open("ouput.txt", "w") as f:
         outputString = outputString + str(random.randint(0, 9))
     f.write(outputString)
     f.close()
+
