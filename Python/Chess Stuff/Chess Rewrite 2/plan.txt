@@ -1,0 +1,27 @@
+All info needed from server:
+
+main loop:
+    if player is white
+    if game is running
+    if move was made
+    if game in checkmate ( with player in checkmate )
+    if game in stalemate
+    board array
+    who is supposed to move
+
+square highlighting ( before move ):
+    list of squares
+    if player is white
+
+previous square highlighting:
+    if move has been made
+    list of squares to highlight
+    if player is white
+
+
+All info needed from client:
+
+    if reset of server-side data requested
+    (x1, y1), (x2, y2), nickname, game id for making a move
+    if undo move is requested
+    if restart of current game is requested

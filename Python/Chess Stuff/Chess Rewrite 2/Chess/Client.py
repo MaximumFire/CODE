@@ -1,5 +1,7 @@
 import requests as r
 from time import sleep as s
+from Chess import Engine as Engine
+import threading
 
 nickname = input("Enter a nickname: ")
 
@@ -11,7 +13,5 @@ GAME_INFO = BASE + "gameinfo"
 GAME_ID = r.get(SETUP)
 r.post(SETUP, {"nickname": nickname, "id": GAME_ID})
 
-s(5)
-
-print(r.get(GAME_INFO, {"id": GAME_ID}).json())
-print(r.get(BOARD, {"id": GAME_ID}).json())
+def get_game_data():
+    

@@ -1,0 +1,11 @@
+{'password': 'GrOoVy!2', 'guesses': Decimal('20000'), 'guesses_log10': 4.30102999566398, 'sequence': [
+        {'pattern': 'dictionary', 'i': 0, 'j': 5, 'token': 'GrOoVy', 'matched_word': 'groovy', 'rank': 1, 'dictionary_name': 'user_inputs', 'reversed': False, 'l33t': False, 'base_guesses': 1, 'uppercase_variations': 41.0, 'l33t_variations': 1, 'guesses': 50, 'guesses_log10': 1.6989700043360185
+        },
+        {'pattern': 'bruteforce', 'token': '!2', 'i': 6, 'j': 7, 'guesses': 100, 'guesses_log10': 2.0
+        }
+    ], 'calc_time': datetime.timedelta(microseconds=997), 'crack_times_seconds': {'online_throttling_100_per_hour': Decimal('720000.0000000000399680288865'), 'online_no_throttling_10_per_second': Decimal('2000'), 'offline_slow_hashing_1e4_per_second': Decimal('2'), 'offline_fast_hashing_1e10_per_second': Decimal('0.000002')
+    }, 'crack_times_display': {'online_throttling_100_per_hour': '8 days', 'online_no_throttling_10_per_second': '33 minutes', 'offline_slow_hashing_1e4_per_second': '2 seconds', 'offline_fast_hashing_1e10_per_second': 'less than a second'
+    }, 'score': 1, 'feedback': {'warning': '', 'suggestions': ['Add another word or two. Uncommon words are better.'
+        ]
+    }
+}

@@ -2,7 +2,7 @@ from flask import Flask
 import flask.scaffold
 flask.helpers._endpoint_from_view_func = flask.scaffold._endpoint_from_view_func
 from flask_restful import Api, Resource, reqparse, abort
-import Engine as Engine
+from Chess import Engine as Engine
 
 app = Flask(__name__)
 api = Api(app)
@@ -32,6 +32,10 @@ class Player:
 board_get_args = reqparse.RequestParser()
 board_get_args.add_argument("id", type=int, help="id not sent", required=True)
 
+board_post_args = reqparse.RequestParser()
+board_post_args.add_argument("move", type=Engine.Move, help="move not sent", required=True)
+board_post_args.add_argument("id", type=int, help="id not sent", required=True)
+
 
 class Board(Resource):
     def get(self):
@@ -43,7 +47,12 @@ class Board(Resource):
         return requested_game.gs.board
 
     def post(self):
-        pass
+        args = board_post_args.parse_args()
+        requested_game = None
+        for game in games:
+            if game.id == args["id"]:
+                requested_game = game
+        requested_game.gs.makeMove(args["move"])
 
 
 setup_post_args = reqparse.RequestParser()
@@ -65,7 +74,11 @@ class Setup(Resource):
         except IndexError:  # if no games yet, set previous id to be 0
             starting_id = 0
         # create game with blank info and id
-        games.append(Game(identifier=(starting_id+1), p1=Player("", False, False, False), p2=Player("", False, False, False), playercount=1, gamestate=Engine.GameState()))
+        games.append(Game(identifier=(starting_id+1),
+                          p1=Player("", False, False, False),
+                          p2=Player("", False, False, False),
+                          playercount=1,
+                          gamestate=Engine.GameState()))
         # return id to user
         return games[len(games)-1].id
 
