@@ -1,8 +1,7 @@
-n = int(input())
-p = int(input())
+a = input()
 
-r = p % n
+if a == "lettuce" or a == "carrot":
+    b = input()
 
-temp = n - r
+c = int(input())
 
-print(temp)

@@ -11,7 +11,7 @@ while True:
     if direction == 2:
         t.right(90)
     if direction == 3:
-        t.right(45)
+        t.left(45)
     if direction == 0:
         t.right(45)
     t.forward(randint(10, 25))
