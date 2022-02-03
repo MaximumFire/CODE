@@ -1,7 +1,3 @@
-a = input()
+a = int(input())
 
-if a == "lettuce" or a == "carrot":
-    b = input()
-
-c = int(input())
-
+print(5*a*a)
