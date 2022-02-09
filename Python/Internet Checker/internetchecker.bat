@@ -1,0 +1,1 @@
+python "C:\Users\conno\OneDrive\Documents\GitHub\CODE\Python\Internet Checker\main.pyw"
