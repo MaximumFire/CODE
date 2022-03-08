@@ -15,3 +15,5 @@ int main() {
         printf("\n");
     }
 }
+
+char string[] = "hello"
