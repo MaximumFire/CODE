@@ -90,7 +90,7 @@ while True:
                     # Adds the decoded letters to a string
                     decodedText += letters[index]
             # Prints the decoded text with its amount of rotations
-            print(f"Rot {rotations}: " + decodedText.title())
+            #print(f"Rot {rotations}: " + decodedText.title())
             decoded.append(decodedText)
             # Adds to the rotations to it rotates more
             rotations += 1
@@ -99,7 +99,7 @@ while True:
         # The loop for finding the most relevant rotations
         for x in range(26):
             # Opens a text file with all of the words in the dictionary
-            file = open("C:\\Users\conno\\Downloads\\CaeserCipher\\Dictionary.txt")
+            file = open("C:\\Users\\conno\\OneDrive\\Documents\\GitHub\\CODE\\Python\\Challenges\\Caesar Cipher\\CaeserCipher\\Dictionary.txt")
             word = decoded[x]
             first = word.split()[0]
             if first in file.read():
