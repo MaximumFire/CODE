@@ -232,7 +232,7 @@ var gravityScore,
 						n.initEvent(t, !0, !1), e.dispatchEvent(n);
 					}
 				}
-			}, 10000); // TIME HERE
+			}, 6000); // TIME HERE
 		}
 
 		function learn() {
