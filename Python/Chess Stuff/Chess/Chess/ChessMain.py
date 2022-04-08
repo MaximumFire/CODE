@@ -4,8 +4,9 @@ It will be responsible for handling user input and displaying the current GameSt
 """
 
 import pygame as p
-from Chess import ChessEngine as ChessEngine
+from Chess import ChessEngineNaive as ChessEngine
 import time as t
+from Chess import ChessAI as ChessAI
 
 
 WIDTH = HEIGHT = 512  # 400 would also work
@@ -45,12 +46,15 @@ def main():
     sq_selected = ()  # No square is selected initially, keep track of last click of the user (tuple: row, col).
     player_clicks = []  # keep track of the player clicks, 2 tuples: [(6, 4), (4, 4)]
     gameOver = False
+    player_one = False  # If a human is playing white then this = True, else this = False
+    player_two = False  # Same as above for black
     while running:
+        human_turn = (gs.whiteToMove and player_one) or (not gs.whiteToMove and player_two)
         for e in p.event.get():
             if e.type == p.QUIT:
                 running = False
             elif e.type == p.MOUSEBUTTONDOWN:
-                if not gameOver:
+                if not gameOver and human_turn:
                     location = p.mouse.get_pos()  # (x, y) location of mouse
                     col = location[0] // SQ_SIZE
                     row = location[1] // SQ_SIZE
@@ -87,6 +91,18 @@ def main():
                     moveMade = False
                     animate = False
                     gameOver = False
+
+        # AI move finder logic
+        if not gameOver and not human_turn:
+            AIMove = ChessAI.findBestMove(gs, valid_moves)
+            if AIMove is None:
+                AIMove = ChessAI.findRandomMove(valid_moves)
+                print("random")
+            else:
+                print("not random")
+            gs.makeMove(AIMove)
+            moveMade = True
+            animate = False
 
         if moveMade:
             if animate:

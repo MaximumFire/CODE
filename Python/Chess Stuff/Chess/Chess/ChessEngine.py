@@ -62,7 +62,6 @@ class GameState:
             self.enPassantPossible = ()
         # if en passant move, must update the board to capture the pawn
         if move.enPassant:
-            print(move.enPassant)
             self.board[move.startRow][move.endCol] = "--"
 
         # pawn promotion
@@ -152,7 +151,7 @@ class GameState:
     """
     def getValidMoves(self):
         moves = []
-        self.inCheck, self.pins, self.  ks = self.checkForPinsAndChecks()
+        self.inCheck, self.pins, self.checks = self.checkForPinsAndChecks()
         if self.whiteToMove:
             kingRow = self.whiteKingLocation[0]
             kingCol = self.whiteKingLocation[1]
@@ -180,7 +179,7 @@ class GameState:
                         if validSquare[0] == checkRow and validSquare[1] == checkCol:
                             break
                 # get rid of any moves that don't block check or move king
-                for i in range(len(moves) -1, -1, -1):  # go through backwards when you are removing from a list
+                for i in range(len(moves) - 1, -1, -1):  # go through backwards when you are removing from a list
                     if moves[i].pieceMoved[1] != "K":  # move doesn't move king so it must be block or capture
                         # move doesn't block check or capture piece
                         if not (moves[i].endRow, moves[i].endCol) in validSquares:
@@ -240,7 +239,7 @@ class GameState:
         return moves
 
     """
-    Moves for pawns with captures and 2 square advances, no en passant or promotion yet
+    Moves for pawns with captures and 2 square advances
     """
     def getPawnMoves(self, r, c, moves):
         piecePinned = False
