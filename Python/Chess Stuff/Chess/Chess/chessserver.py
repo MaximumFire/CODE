@@ -1,8 +1,9 @@
-import socket, pickle
 import ChessEngine as ChessEngine
+import socket, pickle
 
 HOST = "localhost"
 PORT = 5000
+
 
 def send():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -13,6 +14,7 @@ def send():
     s.send(data_string)
     s.close()
     print("Data sent")
+
 
 def recieve():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -26,5 +28,5 @@ def recieve():
     conn.close()
     print(data_variable.board[0])
 
-recieve()
 send()
+recieve()

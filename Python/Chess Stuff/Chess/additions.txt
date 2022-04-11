@@ -1,12 +1,6 @@
-multiple game support
+one receiver method on client and on server (server example)
+one sender method on client and on server (client example)
 
-what do we need?
-start pos for move
-end pos for move
-pieceCaptured
-pieceMoved
-
-animate (post and get)
 
 
 self.board = [
