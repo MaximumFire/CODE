@@ -1,30 +1,16 @@
-import socket, pickle
-import ChessEngine as ChessEngine
-
-HOST = "localhost"
-PORT = 5000
-
-def send():
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.connect((HOST, PORT))
-
-    variable = ChessEngine.GameState()
-    data_string = pickle.dumps(variable)
-    s.send(data_string)
-    s.close()
-    print("Data sent")
-
-def recieve():
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.bind((HOST, PORT))
-    s.listen(1)
-    conn, addr = s.accept()
-    print("connected by ", addr)
-
-    data = conn.recv(4096)
-    data_variable = pickle.loads(data)
-    conn.close()
-    print(data_variable.board[0])
-
-recieve()
-send()
+import socket
+ClientMultiSocket = socket.socket()
+host = '127.0.0.1'
+port = 2004
+print('Waiting for connection response')
+try:
+    ClientMultiSocket.connect((host, port))
+except socket.error as e:
+    print(str(e))
+res = ClientMultiSocket.recv(1024)
+while True:
+    Input = input('Hey there: ')
+    ClientMultiSocket.send(str.encode(Input))
+    res = ClientMultiSocket.recv(1024)
+    print(res.decode('utf-8'))
+ClientMultiSocket.close()

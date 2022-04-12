@@ -1,7 +1,7 @@
 """
 Main driver file.
 Handling user input.
-Displaying current GameStatus object.
+Displaying current GameState object.
 """
 import pygame as p
 import ChessEngine, ChessAI
