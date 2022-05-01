@@ -1,10 +1,14 @@
-c = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+thesum = 76
+thediff = 38
 
-a = 3
-b = len(c)
+num1 = 0
+num2 = 0
 
-d = []
+for i in range(0, 100):
+    for j in range(0, 100):
+        if (i + j) == thesum and (i - j) == thediff:
+            num1 = i
+            num2 = j
 
-for i in range(a, b):
-    d.append(c[a])
-    a += 1
+
+print(num1, num2, (num1 / num2))
