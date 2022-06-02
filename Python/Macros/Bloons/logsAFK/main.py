@@ -13,7 +13,7 @@ mouse = mouse.Controller()
 #b = int(input("Enter value for b: "))
 #c = int(input("Enter value for c: "))
 
-tower = "d"
+tower = "w"
 a = 4
 b = 0
 c = 0
@@ -60,7 +60,7 @@ def main():
     upgrades(3, 0, 0)
 
     # Select alchemist
-    place("f", (830, 675))
+    place("f", (831, 677))  #place("f", (830, 675))
     # Upgrades
     upgrades(4, 2, 0)
 
@@ -68,11 +68,11 @@ def main():
     place("u", (830, 837))
 
     # Druids
-    place("g", (754, 697))
+    place("g", (755, 682))
     upgrades(0, 2, 3)
-    place("g", (890, 707))
+    place("g", (898, 697))
     upgrades(0, 2, 3)
-    place("g", (820, 741))
+    place("g", (822, 742))
     upgrades(0, 2, 3)
 
     # Extra 1

@@ -24,11 +24,10 @@
 ; Open Epic
 ^!Numpad6::Run "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" ; ctrl + alt + num6
 
-
 ; MACROS
 
 ; Bloons Bot With Loop
-^Numpad1::Run "C:\Users\conno\OneDrive\Documents\Python\Macros\Macros\Bloons\logsAFK with loop\main.py" ; ctrl + num1
+^Numpad1::Run "C:\Users\conno\OneDrive\Documents\Python\MacrosBloons\logsAFK with loop\main.py" ; ctrl + num1
 
 ; Bloons Bot Without Loop
 ^Numpad2::Run "C:\Users\conno\OneDrive\Documents\Python\Macros\Macros\Bloons\logsAFK\main.pyw" ; ctrl + num2

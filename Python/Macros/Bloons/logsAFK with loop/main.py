@@ -68,7 +68,7 @@ def main():
         upgrades(3, 0, 0)
 
         # Select alchemist
-        place("f", (830, 675))
+        place("f", (831, 677))
         # Upgrades
         upgrades(4, 2, 0)
 
@@ -76,17 +76,17 @@ def main():
         place("u", (830, 837))
 
         # Druids
-        place("g", (754, 697))
+        place("g", (755, 682))
         upgrades(0, 2, 3)
-        place("g", (890, 707))
+        place("g", (898, 697))
         upgrades(0, 2, 3)
-        place("g", (820, 741))
+        place("g", (822, 742))
         upgrades(0, 2, 3)
 
         # Extra 1
         place(tower, (605, 716))
         upgrades(a, b, c)
-
+        
         # Extra 2
         place(tower, (608, 549))
         upgrades(a, b, c)
@@ -105,47 +105,47 @@ def main():
         clicking(70)
 
         # Restart game
-        mouse.position = (957, 914)
+        mouse.position = (957, 914) # "Next" Button
         s(0.1)
         mouse.press(Button.left)
         mouse.release(Button.left)
         s(2)
-        mouse.position = (706, 855)
+        mouse.position = (706, 855) # "home" button
         s(0.1)
         mouse.press(Button.left)
         mouse.release(Button.left)
         s(2)
-        mouse.position = (838, 930)
+        mouse.position = (838, 930) # "play" button
         s(0.1)
         mouse.press(Button.left)
         mouse.release(Button.left)
         s(2)
-        mouse.position = (821, 980)
+        mouse.position = (821, 980) # "intermediate" button
         s(0.1)
         mouse.press(Button.left)
         mouse.release(Button.left)
         s(1)
-        mouse.position = (275, 430)
+        mouse.position = (275, 430) # "back" button
         s(0.1)
         mouse.press(Button.left)
         mouse.release(Button.left)
         s(1)
-        mouse.position = (535, 251)
+        mouse.position = (957, 260) # "map" button
         s(0.1)
         mouse.press(Button.left)
         mouse.release(Button.left)
         s(1)
-        mouse.position = (634, 418)
+        mouse.position = (634, 418) # "easy"
         s(0.1)
         mouse.press(Button.left)
         mouse.release(Button.left)
         s(1)
-        mouse.position = (1282, 455)
+        mouse.position = (1282, 455) # "deflation"
         s(0.1)
         mouse.press(Button.left)
         mouse.release(Button.left)
         s(5)
-        mouse.position = (972, 766)
+        mouse.position = (972, 766) # "ok"
         s(0.1)
         mouse.press(Button.left)
         mouse.release(Button.left)

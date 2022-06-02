@@ -1,14 +1,13 @@
-thesum = 76
-thediff = 38
+# find fibonacci numbers from 0 to n
 
-num1 = 0
-num2 = 0
+from functools import cache
 
-for i in range(0, 100):
-    for j in range(0, 100):
-        if (i + j) == thesum and (i - j) == thediff:
-            num1 = i
-            num2 = j
+#@cache
+def fib(n):
+    a, b = 0, 1
+    for i in range(n):
+        a, b = b, a + b
+    return a
 
-
-print(num1, num2, (num1 / num2))
+# get fib(100)
+print(fib(100))
