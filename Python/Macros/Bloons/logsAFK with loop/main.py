@@ -13,8 +13,8 @@ mouse = mouse.Controller()
 #b = int(input("Enter value for b: "))
 #c = int(input("Enter value for c: "))
 
-tower = "w"
-a = 4
+tower = "c"
+a = 3
 b = 0
 c = 0
 
@@ -84,15 +84,18 @@ def main():
         upgrades(0, 2, 3)
 
         # Extra 1
-        place(tower, (605, 716))
+        # place(tower, (605, 716)) # For ground/air
+        place(tower, (767, 491)) # For water
         upgrades(a, b, c)
         
         # Extra 2
-        place(tower, (608, 549))
+        # place(tower, (608, 549)) # For ground/air
+        place(tower, (866, 481)) # For water
         upgrades(a, b, c)
 
         # Extra 3
-        place(tower, (1038, 708))
+        # place(tower, (1038, 708)) # For ground/air
+        place(tower, (867, 567)) # For Water
         upgrades(a, b, c)
 
         # Start Game

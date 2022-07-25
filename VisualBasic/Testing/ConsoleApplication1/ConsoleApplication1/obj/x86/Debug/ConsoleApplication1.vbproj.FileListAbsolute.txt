@@ -1,8 +1,0 @@
-U:\Projects\Testing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-U:\Projects\Testing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-U:\Projects\Testing\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
-U:\Projects\Testing\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
-U:\Projects\Testing\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
-U:\Projects\Testing\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
-U:\Projects\Testing\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
-U:\Projects\Testing\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
