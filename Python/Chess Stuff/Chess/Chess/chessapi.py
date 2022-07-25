@@ -41,7 +41,7 @@ class Board(Resource):
         if args["option"] == "board":
             return gs.board
         elif args["option"] == "whiteToMove":
-            return gs.whiteToMove
+            return gs.white_to_move
         elif args["option"] == "get_player":
             index = players.index(args["nickname"])
             if index == 0:
@@ -55,25 +55,25 @@ class Board(Resource):
         elif args["option"] == "valid_move?":
             return valid_move
         elif args["option"] == "current_player":
-            if gs.whiteToMove:
+            if gs.white_to_move:
                 return players[0]
             else:
                 return players[1]
         elif args["option"] == "checkmate?":
-            return gs.checkMate
+            return gs.checkmate
         elif args["option"] == "stalemate?":
-            return gs.staleMate
+            return gs.stalemate
         elif args["option"] == "wasMoveMade":
             return moveMade
         elif args["option"] == "moveLog":
-            return gs.moveLog
+            return gs.move_log
         elif args["option"] == "highlight_squares":
             sq_selected = (args["sq_selected_row"], args["sq_selected_col"])
             squares = []
             if sq_selected != ():
                 r, c = sq_selected
                 print(r, c)
-                if gs.board[r][c][0] == ("w" if gs.whiteToMove else "b"):  # sq_selected is a piece that can be moved
+                if gs.board[r][c][0] == ("w" if gs.white_to_move else "b"):  # sq_selected is a piece that can be moved
                     squares.append(sq_selected)
                     for move in valid_moves:
                         if (move.startRow, move.startCol) == (r, c):
@@ -82,22 +82,22 @@ class Board(Resource):
                 squares = []
             return squares
         elif args["option"] == "previous_move_highlight":
-            if gs.moveLog != []:
-                move = gs.moveLog[-1]
+            if gs.move_log != []:
+                move = gs.move_log[-1]
                 startSquare = (move.startRow, move.startCol)
                 endSquare = (move.endRow, move.endCol)
                 return [startSquare, endSquare]
         elif args["option"] == "has_move_made?":
-            if gs.moveLog != []:
+            if gs.move_log != []:
                 return True
             else:
                 return False
         elif args["option"] == "animate_info":
-            if gs.moveLog != []:
-                return {"start_pos": (gs.moveLog[-1].startRow, gs.moveLog[-1].startCol),
-                        "end_pos": (gs.moveLog[-1].endRow, gs.moveLog[-1].endCol),
-                        "piece_captured": gs.moveLog[-1].pieceCaptured,
-                        "piece_moved": gs.moveLog[-1].pieceMoved}
+            if gs.move_log != []:
+                return {"start_pos": (gs.move_log[-1].startRow, gs.move_log[-1].startCol),
+                        "end_pos": (gs.move_log[-1].endRow, gs.move_log[-1].endCol),
+                        "piece_captured": gs.move_log[-1].pieceCaptured,
+                        "piece_moved": gs.move_log[-1].pieceMoved}
             else:
                 return False
         elif args["option"] == "animate?":
@@ -135,6 +135,7 @@ class Board(Resource):
             animate = False
             valid_moves = gs.getValidMoves()
         elif args["option"] == "post_player":
+            print("THIS HAS BEEN RUN", flush=True)
             players.append(args["nickname"])
             if len(players) > 2:
                 player_colours.append("w")
