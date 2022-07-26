@@ -32,4 +32,9 @@
 ; Bloons Bot Without Loop
 ;^Numpad2::Run "C:\Users\conno\OneDrive\Documents\Python\Macros\Macros\Bloons\logsAFK\main.pyw" ; ctrl + num2
 
+; LIGHTS
+
+^!PgUp::Run "C:\Users\conno\OneDrive\Documents\Github\Code\Python\HomeAssistantControl\turnonall.pyw" ; ctrl + alt + pgup
+^!PgDn::Run "C:\Users\conno\OneDrive\Documents\Github\Code\Python\HomeAssistantControl\turnoffall.pyw" ; ctrl + alt + pgdn
+
 return
