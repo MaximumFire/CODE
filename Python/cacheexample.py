@@ -7,7 +7,7 @@ def fib(n):
     return fib(n-1) + fib(n-2)
 
 def main():
-    for i in range(int(input("Enter starting num: ")), int(input("Enter ending num: "))):
+    for i in range(int(input("Enter number of iterations: "))):
         print(i, fib(i))
 
 if __name__ == "__main__":
