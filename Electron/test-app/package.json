@@ -1,0 +1,14 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Connor McHarg",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^6.1.12"
+  }
+}
