@@ -4,7 +4,7 @@
 ; APPS
 
 ; Open Terminal
-;#t::Run "C:\Users\conno\AppData\Local\Microsoft\WindowsApps\wt.exe" ; win + t
+#Esc::Run "C:\Users\conno\AppData\Local\Microsoft\WindowsApps\wt.exe" ; win + esc
 
 ; Open Steam
 ;^!Numpad1::Run "C:\Program Files (x86)\Steam\steam.exe" ; ctrl + alt + num1

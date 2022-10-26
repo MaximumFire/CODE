@@ -10,7 +10,7 @@ namespace Tutorial_Series
             int number = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter value for line: ");
             string line = Console.ReadLine();
-            Console.Clear()
+            Console.Clear();
             for (int i = 1; i < number+1; i++)
             {
                 Console.WriteLine(line);
