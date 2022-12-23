@@ -1,6 +1,6 @@
 lines = []
 
-with open("CODE/Python/AdventOfCode/day one/input.txt", "r+") as f:
+with open("CODE/Python/AdventOfCode/day 1/input.txt", "r+") as f:
     temp = []
     for line in f.readlines():
         if line != "\n":

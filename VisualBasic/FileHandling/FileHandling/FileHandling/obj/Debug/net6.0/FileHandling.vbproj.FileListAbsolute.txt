@@ -1,0 +1,15 @@
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.exe
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\bin\Debug\net6.0\FileHandling.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.vbproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.AssemblyInfo.vb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.vbproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\refint\FileHandling.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\FileHandling.genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\FileHandling\FileHandling\FileHandling\obj\Debug\net6.0\ref\FileHandling.dll
