@@ -1,0 +1,15 @@
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\bin\Debug\net6.0\Izzy Thing.exe
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\bin\Debug\net6.0\Izzy Thing.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\bin\Debug\net6.0\Izzy Thing.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\bin\Debug\net6.0\Izzy Thing.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\bin\Debug\net6.0\Izzy Thing.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\Izzy Thing.vbproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\Izzy Thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\Izzy Thing.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\Izzy Thing.AssemblyInfo.vb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\Izzy Thing.vbproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\Izzy Thing.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\refint\Izzy Thing.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\Izzy Thing.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\Izzy Thing.genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\izzy thing 24.01.23\Izzy Thing\obj\Debug\net6.0\ref\Izzy Thing.dll
