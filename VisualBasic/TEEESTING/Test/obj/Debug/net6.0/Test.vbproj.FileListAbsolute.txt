@@ -1,0 +1,15 @@
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\bin\Debug\net6.0\Test.exe
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\bin\Debug\net6.0\Test.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\bin\Debug\net6.0\Test.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\bin\Debug\net6.0\Test.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\Test.vbproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\Test.AssemblyInfo.vb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\Test.vbproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\Test.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\refint\Test.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\Test.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\TEEESTING\Test\obj\Debug\net6.0\ref\Test.dll
