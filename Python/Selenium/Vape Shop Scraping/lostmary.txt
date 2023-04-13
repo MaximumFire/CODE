@@ -1,12 +1,6 @@
 Marybull Ice
 Gummy Bear
-Blueberry Cranberry Cherry
-Strawberry Raspberry Cherry
-Blue Razz cherry
 VMT
-Cherry Peach Lemonade
-Strawberry Watermelon Bubblegum
-Triple Mango
 Sakura Grape
 Triple Berry Ice
 Watermelon Ice
@@ -16,7 +10,4 @@ Triple Melon
 Strawberry Kiwi
 Kiwi Passion Fruit Guava
 Red Apple Ice
-Mad Blue
 Green Apple
-Cola
-Blue Sour Raspberry

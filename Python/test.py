@@ -1,12 +1,14 @@
-def simplify(num, den):
-    if num < 0: x = -num
-    else: x = num
-    if den < 0: y = -den   
-    else: y = den
-    if x > y: smaller = y  
-    else: smaller = x
-    for i in range(1, smaller+1):
-        if ((x % i == 0) and (y % i == 0)): hcf = i
-    return (num/hcf, den/hcf)
+x = int(input())
+y = int(input())
 
-print(simplify(27, -81))
+out = ""
+
+z = (x/100) + y
+w = x + (y/100)
+
+if z < 20:
+    out += f"£{z}\n"
+if w < 20:
+    out += f"£{w}"
+
+print(out)
