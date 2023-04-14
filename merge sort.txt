@@ -1,2 +1,1 @@
 https://rosettacode.org/wiki/Sorting_algorithms/Merge_sort#Python
-this is a link to the merge sort for Python
