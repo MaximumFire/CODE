@@ -28,4 +28,4 @@ sudo dkms build rtl8852au -v 1.15.0.1
 sudo dkms install rtl8852au -v 1.15.0.1
 # if wanted
 modinfo 8852au
-modprobe 8852au
+sudo modprobe 8852au
