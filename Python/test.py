@@ -1,21 +1,15 @@
-class Solution:    
-    def evalRPN(self, tokens: list[str]) -> int:
-        stack = []
-        for c in tokens:
-            if c == "+":
-                stack.append(stack.pop() + stack.pop())
-            elif c == "-":
-                a, b = stack.pop(), stack.pop()
-                stack.append(b - a)
-            elif c == "*":
-                stack.append(stack.pop() * stack.pop())
-            elif c == "/":
-                a, b = stack.pop(), stack.pop()
-                stack.append(b // a)
-            else:
-                stack.append(int(c))
+def longestConsecutive(nums) -> int:
+    x = list(nums) # temporary copy
+    x.sort()
+    y = 0
+    run = []
+    for i in range(len(x)):
+        run.append(x[i])
+        for j in range(len(x)):
+            if x[j] == x[i] + 1:
+                run.append(x[j])
+        y = max([y, len(run)])
+        run = []
+    print(y)
 
-        return stack[0]
-        
-s = Solution()
-print(s.evalRPN(["2","1","+", "3", "*"]))
+longestConsecutive([100,4,200,1,3,2])
