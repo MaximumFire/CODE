@@ -2,12 +2,14 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
+from selenium.webdriver.chrome.service import Service
 
 options = Options()
 options.add_argument("--headless")
 options.add_argument("--window-size=1920,1200")
 DRIVER_PATH = 'C:/Program Files/chromedriver/chromedriver.exe'
-driver = webdriver.Chrome(options=options, executable_path=DRIVER_PATH)
+service = Service(r"C:\Program Files\chromedriver\chromedriver.exe")
+driver = webdriver.Chrome(service=service, options=options)
 
 def get_options(page):
     global options, DRIVER_PATH, driver
