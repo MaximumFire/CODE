@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "058p3LvYD3g4EPjo2ul+pF3UzpV6khSFP91tMKZIRAy+Q6//sKVIk4FuU37SAQ+vhmdt5jEzLkBMx04ZhKAefQ==",
+  "dgSpecHash": "VSOekOVq8o4Newikp+We1RV0M0RPtJ0XKnJWXAZyzlLqIkwIUXE6tokkJLoDI/oRxo7UY2aKRtZqzEyG5rHKdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\conno\\OneDrive - Jonathan McHarg\\Desktop\\Coding\\Visual Basic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\conno\\OneDrive\\Documents\\GitHub\\CODE\\VisualBasic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\conno\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\conno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\conno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

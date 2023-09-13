@@ -11,3 +11,17 @@ C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding\Visual Basic\Multiplica
 C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding\Visual Basic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
 C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding\Visual Basic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb
 C:\Users\conno\OneDrive - Jonathan McHarg\Desktop\Coding\Visual Basic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.exe
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.vbproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfo.vb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.vbproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\VisualBasic\Multiplication Table\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.genruntimeconfig.cache

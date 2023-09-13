@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\conno\\OneDrive - Jonathan McHarg\\Desktop\\Coding\\Visual Basic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj": {}
+    "C:\\Users\\conno\\OneDrive\\Documents\\GitHub\\CODE\\VisualBasic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\conno\\OneDrive - Jonathan McHarg\\Desktop\\Coding\\Visual Basic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj": {
+    "C:\\Users\\conno\\OneDrive\\Documents\\GitHub\\CODE\\VisualBasic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\conno\\OneDrive - Jonathan McHarg\\Desktop\\Coding\\Visual Basic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj",
+        "projectUniqueName": "C:\\Users\\conno\\OneDrive\\Documents\\GitHub\\CODE\\VisualBasic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj",
         "projectName": "Multiplication Table",
-        "projectPath": "C:\\Users\\conno\\OneDrive - Jonathan McHarg\\Desktop\\Coding\\Visual Basic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj",
+        "projectPath": "C:\\Users\\conno\\OneDrive\\Documents\\GitHub\\CODE\\VisualBasic\\Multiplication Table\\Multiplication Table\\Multiplication Table.vbproj",
         "packagesPath": "C:\\Users\\conno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\conno\\OneDrive - Jonathan McHarg\\Desktop\\Coding\\Visual Basic\\Multiplication Table\\Multiplication Table\\obj\\",
+        "outputPath": "C:\\Users\\conno\\OneDrive\\Documents\\GitHub\\CODE\\VisualBasic\\Multiplication Table\\Multiplication Table\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\conno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,16 +45,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
