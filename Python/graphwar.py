@@ -1,3 +1,5 @@
+import pyperclip as pc
+
 def get_expression(type: str, values: list):
     if type == "step":
         k, a, c = values
@@ -44,6 +46,7 @@ def main():
         print("---------- Generated Expression ----------")
         chain = get_expression(type=type, values=values)
         print(chain)
+        pc.copy(chain)
         print("------------------------------------------")
         choice = input("Would you like to chain another graph onto that one? (y or n) : ")
         while choice == "y":
@@ -57,6 +60,7 @@ def main():
             choice = input("Would you like to chain another graph onto that one? (y or n) : ")
         print("------------------------------------------")
         print(chain)
+        pc.copy(chain)
         print("------------------------------------------")
         
 if __name__ == "__main__":

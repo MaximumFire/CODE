@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\bin\Debug\net7.0\LaptopTest.exe
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\bin\Debug\net7.0\LaptopTest.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\bin\Debug\net7.0\LaptopTest.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\bin\Debug\net7.0\LaptopTest.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\bin\Debug\net7.0\LaptopTest.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\obj\Debug\net7.0\LaptopTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\obj\Debug\net7.0\LaptopTest.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\obj\Debug\net7.0\LaptopTest.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\obj\Debug\net7.0\LaptopTest.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\obj\Debug\net7.0\LaptopTest.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\obj\Debug\net7.0\refint\LaptopTest.dll
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\obj\Debug\net7.0\LaptopTest.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\obj\Debug\net7.0\LaptopTest.genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\LaptopTest\obj\Debug\net7.0\ref\LaptopTest.dll

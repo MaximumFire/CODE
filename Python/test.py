@@ -1,15 +1,10 @@
-def longestConsecutive(nums) -> int:
-    x = list(nums) # temporary copy
-    x.sort()
-    y = 0
-    run = []
-    for i in range(len(x)):
-        run.append(x[i])
-        for j in range(len(x)):
-            if x[j] == x[i] + 1:
-                run.append(x[j])
-        y = max([y, len(run)])
-        run = []
-    print(y)
+# write a function to do the bubble sort
 
-longestConsecutive([100,4,200,1,3,2])
+def bubble_sort(list):
+    for i in range(len(list)-1):
+        for j in range(len(list)-1-i):
+            if list[j] > list[j+1]:
+                list[j],list[j+1] = list[j+1],list[j]
+    return list
+
+print(bubble_sort([1,3,2,5,4,7,6,9,8]))
