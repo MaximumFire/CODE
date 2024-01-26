@@ -1,0 +1,6 @@
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Rider\Testing\bin\Debug\Testing.exe
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Rider\Testing\bin\Debug\Testing.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Rider\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Rider\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Rider\Testing\obj\Debug\Testing.exe
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Rider\Testing\obj\Debug\Testing.pdb
