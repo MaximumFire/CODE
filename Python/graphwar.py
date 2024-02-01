@@ -1,6 +1,6 @@
 import pyperclip as pc
 
-def get_expression(type: str, values: list):
+def get_expression(type: str, values: list) -> str:
     if type == "step":
         k, a, c = values
         return f"{k}/(1+exp(-{a}*(x+{-c})))"
@@ -17,6 +17,8 @@ def get_expression(type: str, values: list):
     elif type == "dsine":
         k, a, b, c = values
         return f"{b}(sin({k}x))/(1+exp(-{a}*(x+{-c})))"
+    else:
+        return ""
 
 def main():
     numParams = {"step": 3, "spike": 3, "diag": 3, "sine": 2, "dsine": 4}
