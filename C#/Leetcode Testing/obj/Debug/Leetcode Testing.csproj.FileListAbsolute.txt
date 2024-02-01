@@ -1,0 +1,7 @@
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Leetcode Testing\bin\Debug\Leetcode Testing.exe.config
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Leetcode Testing\bin\Debug\Leetcode Testing.exe
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Leetcode Testing\bin\Debug\Leetcode Testing.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Leetcode Testing\obj\Debug\Leetcode Testing.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Leetcode Testing\obj\Debug\Leetcode Testing.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Leetcode Testing\obj\Debug\Leetcode Testing.exe
+C:\Users\conno\OneDrive\Documents\GitHub\CODE\C#\Leetcode Testing\obj\Debug\Leetcode Testing.pdb
