@@ -1,7 +1,4 @@
-a = {}
+a = {"a": "b"}
 
-a[9] = 10
-
-a = hash((1,2))
-
-print(a)
+for x, y in a.items():
+    print(x, y)
