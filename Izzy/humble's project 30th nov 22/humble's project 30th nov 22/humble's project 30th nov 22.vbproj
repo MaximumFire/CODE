@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>humble_s_project_30th_nov_22</RootNamespace>
-    <TargetFramework>net6.0</TargetFramework>
-  </PropertyGroup>
-
-</Project>
