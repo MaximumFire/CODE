@@ -1,9 +1,9 @@
-import controls
+import controls as c
 
-bsLight = controls.BedsideLight()
-mnLight = controls.MainLight()
-ledStrip = controls.LightStrips()
+m = c.MainLight()
+d = c.DeskLight()
+s = c.StripLights()
 
-bsLight.turn_on(50)
-mnLight.turn_off()
-ledStrip.turn_on()
+m.turn_off()
+d.turn_off()
+s.turn_on(100, 215, 151, 255)
